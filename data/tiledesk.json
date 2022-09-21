@@ -1,0 +1,18 @@
+{
+    "name": "Tiledesk",
+    "career_page_url": "https://www.linkedin.com/company/tiledesk/jobs",
+    "url": "https://tiledesk.com",
+    "remote_policy": "Optional",
+    "hiring_policies": [
+        "Direct"
+    ],
+    "type": "Product",
+    "categories": [
+        "cloud_software"
+    ],
+    "tags": [
+        "nodejs",
+        "angular",
+        "mqtt"
+    ]
+}
